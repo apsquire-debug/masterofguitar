@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'About - Anthony Squire Guitar',
-  description: 'Learn about Anthony Squire and his guitar teaching philosophy',
+  title: 'About - Master My Guitar',
+  description: 'Learn about our guitar teaching philosophy and approach',
 };
 
 export default function AboutPage() {

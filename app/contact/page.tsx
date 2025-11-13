@@ -1,7 +1,7 @@
 import ContactForm from '@/components/ContactForm';
 
 export const metadata = {
-  title: 'Contact - Anthony Squire Guitar',
+  title: 'Contact - Master My Guitar',
   description: 'Get in touch for guitar lessons and inquiries',
 };
 

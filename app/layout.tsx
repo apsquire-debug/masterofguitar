@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Anthony Squire Guitar - Learn Guitar Online",
-  description: "Master guitar with comprehensive lessons, techniques, and practice tips from Anthony Squire.",
+  title: "Master My Guitar - Learn Guitar Online",
+  description: "Master guitar with comprehensive lessons, techniques, and practice tips. Learn at your own pace.",
 };
 
 export default function RootLayout({

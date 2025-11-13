@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
           <div>
-            <h3 className="text-lg font-semibold text-gray-900">Anthony Squire Guitar</h3>
+            <h3 className="text-lg font-semibold text-gray-900">Master My Guitar</h3>
             <p className="mt-4 text-sm text-gray-600">
               Learn guitar at your own pace with comprehensive lessons, techniques, and practice tips.
             </p>
@@ -42,7 +42,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t border-gray-200 pt-8">
           <p className="text-center text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} Anthony Squire Guitar. All rights reserved.
+            &copy; {new Date().getFullYear()} Master My Guitar. All rights reserved.
           </p>
         </div>
       </div>

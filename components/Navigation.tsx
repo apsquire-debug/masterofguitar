@@ -9,7 +9,7 @@ export default function Navigation() {
             <Link href="/" className="flex items-center">
               <span className="text-2xl font-bold text-blue-600">🎸</span>
               <span className="ml-2 text-xl font-semibold text-gray-900">
-                Anthony Squire Guitar
+                Master My Guitar
               </span>
             </Link>
           </div>
