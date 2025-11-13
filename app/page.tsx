@@ -8,7 +8,7 @@ export default function Home() {
         {/* Background Image */}
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: 'url(/guitar-hero.jpg)' }}
+          style={{ backgroundImage: 'url(/hero-guitar.jpg)' }}
         ></div>
 
         {/* Dark Overlay for text readability */}
